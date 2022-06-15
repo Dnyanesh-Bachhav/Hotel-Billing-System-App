@@ -5,3 +5,5 @@ Admin has some different rights than manager.
 Admin rights✅✅:
 1. Adding menu items
 2. Perform CRUD operations on menu items
+3. Admin has access to all order records
+
